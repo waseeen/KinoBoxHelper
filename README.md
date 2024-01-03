@@ -4,6 +4,7 @@
 
 ## Установка
 
+0. Установите [Расширение Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=ru) для браузера, если у вас ещё не установлено
 1. Перейти по [ссылке](https://github.com/waseeen/KinoBoxHelper/raw/master/kinoBoxHelper.user.js)
 2. Нажать установить
 
