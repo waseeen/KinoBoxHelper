@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         KinoBox helper
+// @name         KinoHost helper
 // @version      1.03
-// @description  Открывай фильм на KinoDivBox прямо со страницы Кинопоиска!
+// @description  Открывай фильм на KinoHost прямо со страницы Кинопоиска!
 // @author       waseeen
 // @match        https://www.kinopoisk.ru/*
 // @icon         https://raw.githubusercontent.com/kinodivbox/kinodivbox.github.io/main/favicon-32x32.png
