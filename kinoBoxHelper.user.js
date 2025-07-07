@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         KinoBox helper
-// @version      1.02
+// @version      1.03
 // @description  Открывай фильм на KinoDivBox прямо со страницы Кинопоиска!
 // @author       waseeen
 // @match        https://www.kinopoisk.ru/*
@@ -18,7 +18,7 @@
       if (dupe) return;
       if (target) {
         let query =
-          "https://kinodivbox.github.io/kinodivbox.html?q=" + document.URL;
+          "https://kinohost.web.app/search?query=" + document.URL;
         var newDiv = document.createElement("div");
         newDiv.classList.add(
           "kinoDivBox",
